@@ -1,4 +1,8 @@
 # joi-retetar-2022
-un demo de lucru cu brunch-uri
+
+Un demo de lucru cu brunch-uri
+## Descriere
+
+Va contine retete.
 
 aceasta modificare este facuta in browser
