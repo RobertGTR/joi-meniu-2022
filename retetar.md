@@ -4,9 +4,6 @@ Aceasta este lista de retete pe care o cunoastem
 
 ## Mic dejun
 
-<<<<<<< HEAD
-- [Clatite](./retete/clatite.md)
-=======
 [Clatite](./retete/clatite.md)
 
 ## Dejun
@@ -16,4 +13,3 @@ Aceasta este lista de retete pe care o cunoastem
 -[Gogosi](./retete/gogosi.md)
 
 
->>>>>>> main
