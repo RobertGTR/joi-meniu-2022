@@ -1,5 +1,5 @@
 # Sarmale
 
-Orez
-Foi de Varza murata
-Carne tocata
+- Orez
+- Foi de Varza murata
+- Carne tocata
