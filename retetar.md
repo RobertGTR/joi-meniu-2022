@@ -10,6 +10,6 @@ Aceasta este lista de retete pe care o cunoastem
 - [Sarmale](./retete/sarmale.md)
 - [Paste Carbonara](./retete/paste%20carbonara.md)
 ## Desert
--[Gogosi](./retete/gogosi.md)
+- [Gogosi](./retete/gogosi.md)
 
 
